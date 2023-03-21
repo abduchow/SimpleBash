@@ -1,0 +1,2 @@
+# SimpleBash
+simple Bash script 
